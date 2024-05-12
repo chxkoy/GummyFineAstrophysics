@@ -3,7 +3,7 @@
     "userid": "100083579325213",
     "prefix": "♡",
     "admin": [
-      "100088690249020"
+      "100079639774567"
     ],
     "blacklist": [],
     "enableCommands": [
@@ -67,6 +67,64 @@
           "unsend",
           "uptime",
           "sdxl"
+        ]
+      },
+      {
+        "handleEvent": [
+          "antiout",
+          "resend"
+        ]
+      }
+    ],
+    "time": 0
+  },
+  {
+    "userid": "100079639774567",
+    "prefix": "",
+    "admin": [
+      ""
+    ],
+    "blacklist": [],
+    "enableCommands": [
+      {
+        "commands": [
+          "women",
+          "adduser",
+          "ai",
+          "allmember",
+          "Artify",
+          "autoseen",
+          "bbgpt",
+          "dictionary",
+          "emi",
+          "emojimix",
+          "gemini",
+          "help",
+          "hercai",
+          "insult",
+          "kick",
+          "kickall",
+          "listchats",
+          "lyrics",
+          "mistral",
+          "obfuscate",
+          "out",
+          "pinterest",
+          "poli",
+          "prodia",
+          "quote",
+          "recipe",
+          "research",
+          "sim",
+          "snow",
+          "stalk",
+          "teach",
+          "tempm",
+          "text2voice",
+          "trans",
+          "uid",
+          "unsend",
+          "uptime"
         ]
       },
       {

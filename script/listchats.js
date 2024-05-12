@@ -1,5 +1,5 @@
 module.exports.config = {
- name: 'listbox',
+ name: 'listchats',
  version: '1.0.0',
  credits: 'manhIT',
  role: 2,
